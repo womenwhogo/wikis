@@ -1,5 +1,7 @@
 ## Go Tutorials
+* Machine Setup: https://www.golang-book.com/guides/machine_setup
 * Installing Go: https://golang.org/doc/install
+* Introduction to Programming: https://golang-book.com/books/intro
 * Official Go tour: https://tour.golang.org
 * WWG Bangalore Intro to Go: https://drive.google.com/file/d/0B3xOA5e94fePRml1REZCdFpRVlU/view
 * WWG NYC Go Tutorial: https://github.com/womenwhogonyc/Go-Tutorial
