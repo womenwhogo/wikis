@@ -1,4 +1,6 @@
-# How to Start a [Women Who Go](womenwhogo.org) Chapter in Your Area
+# How to Start a [Women Who Go](womenwhogo.org) Chapter
+*NOTE: You must identfy as a woman to start a chapter*
+
 ### Suggested TODOs:
 1. Create WWG page on meetup.com for your chapter <br>
 Meetup.com charges a fee ($10-$15) per month to use their site. <br>
