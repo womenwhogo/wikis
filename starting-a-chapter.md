@@ -4,7 +4,7 @@
 ### Suggested TODOs:
 1. Create WWG page on meetup.com for your chapter <br>
 Meetup.com charges a fee ($10-$15) per month to use their site. <br>
-If you want to find a sponsor for this but don't know how or are having trouble, please email hello@womenwhogo.org and I (Sarah) will be happy to help. 
+If you want to find a sponsor for this but don't know how or are having trouble, please email hello@womenwhogo.org and I (Sarah) will be happy to help. <br>
 Links to example meetup.com pages from other chapters can be found on womenwhogo.org
 2. Create a Twitter account for your chapter <br>
 This is helpful for getting the word out about your events, seeking sponsors, etc.
