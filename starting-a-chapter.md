@@ -1,7 +1,7 @@
 # How to Start a [Women Who Go](womenwhogo.org) Chapter
 
 
-**NOTE: You must identfy as a woman to start a chapter**
+*NOTE: You must identfy as a woman to start a chapter*
 
 ### Suggested TODOs:
 0. You must identify as a woman to start a chapter.
