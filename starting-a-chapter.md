@@ -4,6 +4,7 @@
 **NOTE: You must identfy as a woman to start a chapter**
 
 ### Suggested TODOs:
+0. You must identify as a woman to start a chapter.
 1. Create WWG page on meetup.com for your chapter <br>
 Meetup.com charges a fee ($10-$15) per month to use their site. <br>
 If you want to find a sponsor for this but don't know how or are having trouble, please email hello@womenwhogo.org and I (Sarah) will be happy to help. <br>
