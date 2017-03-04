@@ -7,6 +7,7 @@
 * Introduction to Programming: https://golang-book.com/books/intro
 
 ## Tutorials
+* Writing a wikipedia clone in Go: https://golang.org/doc/articles/wiki/
 * Go track on Exercism.io: http://exercism.io/languages/go
 * WWG Bangalore Intro to Go: 
   https://github.com/WWGoBangalore/talks/blob/master/Introduction%20to%20Go%20Programming.pdf
