@@ -1,4 +1,4 @@
-# How to Start a [Women Who Go](womenwhogo.org) Chapter
+# How to Start a [Women Who Go](https://womenwhogo.org) Chapter
 
 
 *NOTE: You must identfy as a woman or gender minority to start a chapter*
